@@ -19,3 +19,29 @@
 
 
 }
+
+#section-2 {
+    overflow: hidden;
+}
+
+.book {
+    float: left;
+    width: 33%;
+    padding-right: 0.3333%;
+
+}
+
+.book img {
+    width: 100%;
+}
+
+.library {
+    overflow: hidden;
+    background-color: antiquewhite;
+}
+
+.library p,
+img {
+    float: left;
+    width: 50%;
+}
