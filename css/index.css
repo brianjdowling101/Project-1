@@ -1,0 +1,21 @@
+.nav li {
+
+    list-style-type: none;
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.nav {
+    overflow: hidden;
+    background-color: black;
+
+}
+
+.nav li a {
+    color: aliceblue;
+    padding: 25px;
+    display: block;
+
+
+}
