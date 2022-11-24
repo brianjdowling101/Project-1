@@ -1,5 +1,6 @@
 p {
     color: rgb(1, 1, 1);
+    font-style: arial;
 }
 
 .nav li {
@@ -64,7 +65,7 @@ body {
 /* The actual timeline (the vertical ruler) */
 .timeline {
     position: relative;
-    max-width: 1900px;
+    max-width: 1400px;
     margin: 0 auto;
 }
 
