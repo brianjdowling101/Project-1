@@ -263,3 +263,9 @@ footer {
     color: #474e5d;
 
 }
+
+#hero-image {
+    height: 660px;
+    width: 100%;
+    background: url(../image/hero-image.jpeg) no-repeat center center;
+}
