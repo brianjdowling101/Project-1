@@ -1,3 +1,80 @@
+#hero-outer {
+    /* height: calc(100vh - 68.5px); */
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+    /* hero-image */
+
+}
+
+#hero-image {
+    height: 100vh;
+    width: 100%;
+    background: url(../image/hero-image.jpeg) no-repeat center center;
+
+
+
+    /* animates zoom effect on loading page */
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+
+/* Creates the level of zoom for hero image */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+/*Hero image & cover text*/
+
+
+#cover-text,
+h2 {
+    color: #fff
+}
+
+#cover-text,
+#cover-text {
+    color: #fff;
+
+    font-size: 90%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: left;
+
+
+    width: 300px;
+    padding: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+
+    background-color: rgba(241, 109, 107, .7);
+    bottom: 30px;
+    right: 150px;
+    position: absolute;
+}
+
+
+
+
+#main-title {
+    color: #fff;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+
 body {
     margin: 0;
 
@@ -27,7 +104,7 @@ p {
 
     list-style-type: none;
     float: left;
-    width: 25%;
+    width: 20%;
     text-align: center;
 }
 
@@ -35,6 +112,13 @@ p {
     overflow: hidden;
     background-color: black;
     padding: 0;
+    margin: 0;
+    position: fixed;
+    top: 0;
+
+    left: 0;
+    width: 100%;
+    z-index: 1;
 
 }
 
@@ -46,19 +130,26 @@ p {
 
 }
 
-.nav li:hover {
+.nav .nav1:hover {
     color: aliceblue;
     background-color: rgb(185, 25, 25);
 }
 
+.titlenav {
+    font-size: 18px;
+    font-weight: bold;
+
+}
 
 #section-2 {
     overflow: hidden;
 }
 
+
 .book {
     width: 30%;
-
+    position: relative;
+    height: 200px;
 
 }
 
@@ -68,24 +159,38 @@ p {
 }
 
 .book img {
+
     width: 100%;
     padding-right: 0.3333%;
 }
 
 .book .context {
-    display: none;
+    bottom: -200px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: hotpink;
+    padding: 0;
+    margin: 0;
+    transition: all 0.5s linear;
+
+    position: absolute;
     text-align: justify;
+
 }
 
 .book:hover .context {
-    display: block;
-    /* hidden it will apear*/
+    bottom: 0;
+
+    /* hidden it will appear*/
 }
 
 .library {
     overflow: hidden;
-    background-color: antiquewhite;
+    background-color: rgb(255 218 185);
 }
+
+/* library section img-text*/
 
 .library .librarytext,
 .library img {
@@ -105,6 +210,8 @@ p {
     line-height: 32px;
 
 }
+
+/* library section img*/
 
 * {
     box-sizing: border-box;
@@ -223,7 +330,7 @@ body {
         padding-right: 25px;
     }
 
-    /* Make sure that all arrows are pointing leftwards */
+    /* all arrows are pointing leftwards */
     .container::before {
         left: 60px;
         border: medium solid white;
@@ -231,7 +338,7 @@ body {
         border-color: transparent white transparent transparent;
     }
 
-    /* Make sure all circles are at the same spot */
+    /* all circles are at the same spot */
     .left::after,
     .right::after {
         left: 15px;
@@ -243,87 +350,51 @@ body {
     }
 }
 
-footer {
-    height: 150px;
-}
 
-.social-media {
-    text-align: center;
+
+.redev-text {
+    text-align: justify;
 
 }
 
-.social-media li {
-    display: inline;
-}
 
-.social-media i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #474e5d;
 
-}
 
-/* hero-image */
-
-#hero-outer {
-    height: 660px;
-    width: 100%;
-    overflow: hidden;
-
-    position: relative;
+.footerul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
 
 }
 
-#hero-image {
-    height: 660px;
-    width: 100%;
-    background: url(../image/hero-image.jpeg) no-repeat center center;
+.facebook,
+.instagram,
+.twitter,
+.youtube {
+    float: left;
+    margin: 25px;
 
+}
 
-    /* animates zoom effect on loading page */
-
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+#social-media {
+    background-color: white;
 }
 
 
-/* Creates the level of zoom for hero image */
 
-@keyframes hero-zoom {
-    from {
-        transform: scale(1);
-    }
 
-    to {
-        transform: scale(1.1);
-    }
+
+
+
+video {
+    width: 70%;
+    display: block;
+    margin: auto;
 }
 
-/*Hero image & cover text*/
-
-
-#cover-text,
-h2 {
-    color: #fff
-}
-
-#cover-text,
-#cover-text h2 {
+.textlibray {
+    padding: 0 20px;
     color: #fff;
-
-    font-size: 135%;
-    font-family: Oswald, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 5px;
-
-
-    width: 300px;
-    height: 200px;
-
-    background-color: rgba(241, 109, 107, .7);
-    bottom: 30px;
-    right: 150px;
-    position: absolute;
 }
