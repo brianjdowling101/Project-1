@@ -45,6 +45,37 @@ The images & video have been sourced from official Trinity College accounts and 
 
 The information is evidence-based and has been sourced from official Trinity College accounts such as Facebook, YouTube, Instagram, and Twitter.
 
+#Testing
+
+• Screen Size:d
+
+All sections can be perfectly view on desktop computer and laptop.
+
+Trinity College Library (hero image): 
+
+Works perfectly on all screen sizes. I edited the CSS (Cover-text): right command from a value of 150px to 10%. This allowed the textbox to be properly viewed on the screen with no text missing. Originally before the edit, the textbox was missing on a mobile screen.
+
+The Book of Kells
+Timeline
+The Old College Library
+Redevelopment Project
+
+
+
+• Browsers:
+
+• Bugs/prombles:
+
+
+
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
 
 
 
