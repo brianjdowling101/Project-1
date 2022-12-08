@@ -71,9 +71,14 @@ All sections can be perfectly view on desktop computer and laptop.
 
 The Old College Library section: when viewing on a moblie device. A line of text is missing from each secton.
 
+#Content
+
+All text, images and videos are taken from offical Trinity College accounts. 
+
+The icons in the footer were taken from Font Awesome.
 
 
-.
+
 
 
 
