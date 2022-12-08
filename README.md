@@ -5,7 +5,7 @@ Trinity College Library is a website that hopes to inform users about historical
 
 # Features
 
-## Navigation Bar:
+## Navigation Bar:##
 
 Featured on all five sections. The fully responsive navigation bar includes links to the Trinity College Library (hero image), The Book of Kells, Timeline, The Old College Library, and Redevelopment Project section. The navigation bar will stay fixed and will allow the user to easily navigate from section to section across all devices without having to revert back to the previous page via the ‘back’ button.
 
