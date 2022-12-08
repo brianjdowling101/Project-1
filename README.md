@@ -21,15 +21,15 @@ The user will be able to access images & text about The Book of Kells which has 
 
 The Timeline section follows the journey of The Book of Kells and how it arrived at its permanent home in The Long Room. From here the timeline follows the history of The Long Room. The context is displayed in seven separate boxes with the year at the beginning of each paragraph.
 
-• The Old Library
+• The Old Library:
 
 The user can access two images and text about The Old Library that have been sourced from official Trinity College accounts and support evidence-based information.
 
-• The Redevelopment Project
+• The Redevelopment Project:
 
 Users may access a video and text about the redevelopment project sourced from official Trinity College accounts and supported by evidence-based information.
 
-• Footer
+• Footer:
 
 The footer helps users to access official Trinity College social media accounts such as Facebook, Youtube, Facebook, Instagram, and Twitter.
 
@@ -41,7 +41,7 @@ The background and text have been chosen to provide a comfortable viewing experi
 
 The images & video have been sourced from official Trinity College accounts and support evidence-based information. The footer contains links to Trinity College’s official Facebook, YouTube, Instagram, and Twitter accounts. The video is about the development project and is set to mute, but users have the option to unmute the video and listen to the audio.
 
-• Evidence-based Information
+• Evidence-based Information:
 
 The information is evidence-based and has been sourced from official Trinity College accounts such as Facebook, YouTube, Instagram, and Twitter.
 
