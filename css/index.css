@@ -61,7 +61,7 @@ h2 {
 
     background-color: rgba(241, 109, 107, .7);
     bottom: 30px;
-    right: 150px;
+    right: 10%;
     position: absolute;
 }
 
@@ -147,7 +147,7 @@ p {
 
 
 .book {
-    width: 30%;
+    width: 100%;
     position: relative;
     height: 200px;
 
@@ -169,7 +169,7 @@ p {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: hotpink;
+    background-color: rgba(222, 222, 222, 0.921);
     padding: 0;
     margin: 0;
     transition: all 0.5s linear;
