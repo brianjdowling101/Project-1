@@ -49,16 +49,19 @@ The information is evidence-based and has been sourced from official Trinity Col
 
 • Screen Size:d
 
+Trinity College Library (hero image): Works perfectly on all screen sizes. I edited the CSS (Cover-text): right command from a value of 150px to 10%. This allowed the textbox to be properly viewed on the screen with no text missing. Originally before the edit, the textbox was missing on a mobile screen.
+
+The Book of Kells: can be viewed perfectly on all device screens.
+
+Timeline: can be viewed perfectly on all device screens.
+
+The Old College Library: can be viewed perfectly on all device screens.
+
+Redevelopment Project: can be view perfectly on all device screens.
+
+Footer: can be viewed perfectly on all device screens.
+
 All sections can be perfectly view on desktop computer and laptop.
-
-Trinity College Library (hero image): 
-
-Works perfectly on all screen sizes. I edited the CSS (Cover-text): right command from a value of 150px to 10%. This allowed the textbox to be properly viewed on the screen with no text missing. Originally before the edit, the textbox was missing on a mobile screen.
-
-The Book of Kells
-Timeline
-The Old College Library
-Redevelopment Project
 
 
 
@@ -66,15 +69,11 @@ Redevelopment Project
 
 • Bugs/prombles:
 
+The Old College Library section: when viewing on a moblie device. A line of text is missing from each secton.
 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+.
 
 
 
