@@ -47,7 +47,7 @@ The information is evidence-based and has been sourced from official Trinity Col
 
 # Testing
 
-• Screen Size:d
+• Screen Size:
 
 Trinity College Library (hero image): Works perfectly on all screen sizes. I edited the CSS (Cover-text): right command from a value of 150px to 10%. This allowed the textbox to be properly viewed on the screen with no text missing. Originally before the edit, the textbox was missing on a mobile screen.
 
@@ -67,9 +67,13 @@ All sections can be perfectly view on desktop computer and laptop.
 
 • Browsers:
 
+Works in Chromes, Internet Explorer and Safari.
+
 • Bugs/prombles:
 
 The Old College Library section: when viewing on a moblie device. A line of text is missing from each secton.
+
+No bugs found when testing in launch.json .vscode.
 
 # Content
 
