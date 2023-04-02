@@ -101,11 +101,7 @@ p {
 
 
 .nav li {
-
     list-style-type: none;
-    float: left;
-    width: 20%;
-    text-align: center;
 }
 
 .nav {
@@ -115,19 +111,25 @@ p {
     margin: 0;
     position: fixed;
     top: 0;
-
     left: 0;
     width: 100%;
     z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12px;
+}
 
+.navul ul {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
 }
 
 .nav li a {
     color: aliceblue;
-    padding: 25px;
+    padding: 24px 12px;
     display: block;
-
-
 }
 
 .nav .nav1:hover {
@@ -136,9 +138,14 @@ p {
 }
 
 .titlenav {
-    font-size: 18px;
-    font-weight: bold;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
 
+.titlenav a {
+    color: #fff;
+    font-size: 22px;
 }
 
 #section-2 {
@@ -149,8 +156,7 @@ p {
 .book {
     width: 100%;
     position: relative;
-    height: 200px;
-
+    cursor: pointer;
 }
 
 .bookbox {
@@ -168,15 +174,14 @@ p {
     bottom: -200px;
     left: 0;
     width: 100%;
-    height: 100%;
-    background-color: rgba(222, 222, 222, 0.921);
-    padding: 0;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 6px;
+    background-color: rgba(222, 222, 222, 51%);
     margin: 0;
     transition: all 0.5s linear;
-
     position: absolute;
     text-align: justify;
-
 }
 
 .book:hover .context {
@@ -193,11 +198,24 @@ p {
 /* library section img-text*/
 
 .library .librarytext,
-.library img {
+.library .imgbg {
     float: left;
     width: 50%;
     height: 600px;
+}
 
+.imgbg1 {
+    background-image: url(../image/longroomlibrary.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imgbg2 {
+    background-image: url(../image/longroomstairs.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .librarytext {
@@ -384,10 +402,6 @@ body {
 
 
 
-
-
-
-
 video {
     width: 70%;
     display: block;
@@ -397,4 +411,91 @@ video {
 .textlibray {
     padding: 0 20px;
     color: #fff;
+}
+
+
+.navbar {
+    display: none;
+}
+
+@media screen and (max-width:750px) {
+    .nav {
+        display: block;
+        padding: 12px 0;
+    }
+
+    .navul {
+        display: block;
+        text-align: center;
+        padding-top: 6px;
+        position: relative;
+    }
+
+    .navul ul {
+        display: none;
+    }
+
+    .titlenav a {
+        width: 100%;
+        text-align: center;
+    }
+
+    .nav li a {
+        padding: 12px;
+    }
+
+    .titlenav {
+        position: relative;
+    }
+
+    .navbar {
+        display: block;
+        position: absolute;
+        right: 16px;
+        color: white;
+        top: -1rem;
+    }
+
+    .navul>ul {
+        display: none;
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+    }
+
+    .navul:hover>ul {
+        display: block;
+    }
+
+    .library .librarytext,
+    .library .imgbg {
+        width: 100%;
+    }
+
+    .library .librarytext,
+    .library .imgbg {
+        width: 100%;
+    }
+
+    .library {
+        position: relative;
+    }
+
+    .library .librarytext {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: rgb(0 0 0 / 50%);
+        color: white;
+    }
+
+    .library .librarytext p {
+        color: white;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .bookbox {
+        display: block;
+    }
 }
