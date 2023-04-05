@@ -82,7 +82,7 @@ body {
 
 .title {
     text-align: center;
-    color: aliceblue;
+    color: rgb(251, 251, 251);
     font-size: 38px;
 
 }
@@ -144,7 +144,7 @@ p {
 }
 
 .titlenav a {
-    color: #fff;
+    color: #fcf8f8;
     font-size: 22px;
 }
 
