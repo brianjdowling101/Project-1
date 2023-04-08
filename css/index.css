@@ -338,6 +338,7 @@ form {
     flex-direction: column;
     max-width: 500px;
     margin: 0 auto;
+    margin-bottom: 20px;
 }
 
 label {
@@ -367,8 +368,10 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #0062cc;
+    background-color: #f90000;
 }
+
+
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
