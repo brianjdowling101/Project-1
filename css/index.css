@@ -339,6 +339,7 @@ form {
     max-width: 500px;
     margin: 0 auto;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 label {
