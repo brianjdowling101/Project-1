@@ -16,8 +16,8 @@
     animation-fill-mode: forwards;
 }
 
-/* Creates the level of zoom for hero image */
 
+/* Creates the level of zoom for hero image */
 @keyframes hero-zoom {
     from {
         transform: scale(1);
@@ -28,8 +28,7 @@
     }
 }
 
-/*Hero image & cover text*/
-
+/* Styles for hero text */
 
 #cover-text,
 h2 {
