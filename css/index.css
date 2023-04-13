@@ -354,6 +354,7 @@ body {
     border-radius: 6px;
 }
 
+/* Form styles */
 form {
     display: flex;
     flex-direction: column;
@@ -379,6 +380,7 @@ textarea {
     font-size: 16px;
 }
 
+/* Submit button styles */
 input[type="submit"] {
     background-color: #ff2a00;
     color: #fff;
@@ -450,6 +452,7 @@ input[type="submit"]:hover {
 
 }
 
+/* social media icons */
 .facebook,
 .instagram,
 .twitter,
