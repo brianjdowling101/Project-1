@@ -369,10 +369,13 @@ form {
     color: #fff;
 }
 
+/* Sets the font weight and bottom margin for all labels */
 label {
     font-weight: bold;
     margin-bottom: 5px;
 }
+
+/*Styles for text, email and textarea input fields */
 
 input[type="text"],
 input[type="email"],
@@ -491,14 +494,17 @@ video {
     display: none;
 }
 
-/* CSS for media queries when screen is 750px or less */
+/* media queries when screen is 750px or less */
 
 @media screen and (max-width:750px) {
+
+    /* Display the navigation links as a block element */
     .nav {
         display: block;
         padding: 12px 0;
     }
 
+    /* Center the navigation links */
     .navul {
         display: block;
         text-align: center;
@@ -506,15 +512,18 @@ video {
         position: relative;
     }
 
+    /* Hide the sub-navigation menu */
     .navul ul {
         display: none;
     }
 
+    /* Center the title of the navigation bar */
     .titlenav a {
         width: 100%;
         text-align: center;
     }
 
+    /* Add padding to the navigation links */
     .nav li a {
         padding: 12px;
     }
@@ -523,6 +532,7 @@ video {
         position: relative;
     }
 
+    /* Position the navbar */
     .navbar {
         display: block;
         position: absolute;
@@ -531,6 +541,7 @@ video {
         top: -1rem;
     }
 
+    /* Hide the sub-navigation menu items */
     .navul>ul {
         display: none;
         padding: 0;
@@ -538,24 +549,31 @@ video {
         list-style-type: none;
     }
 
+    /* Display the sub-navigation menu items on hover */
     .navul:hover>ul {
         display: block;
     }
 
-    .library .librarytext,
-    .library .imgbg {
-        width: 100%;
-    }
+    /* Set the width of the library text and image to 100% */
 
     .library .librarytext,
     .library .imgbg {
         width: 100%;
     }
 
+    /* Set the width of the library text and image to 100% */
+
+    .library .librarytext,
+    .library .imgbg {
+        width: 100%;
+    }
+
+    /* Position the library relative to its container */
     .library {
         position: relative;
     }
 
+    /* Position the library text on top of the image */
     .library .librarytext {
         position: absolute;
         top: 0;
@@ -564,6 +582,7 @@ video {
         color: white;
     }
 
+    /* Set the color of the text inside the library text to white */
     .library .librarytext p {
         color: white;
     }
