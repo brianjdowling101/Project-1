@@ -36,24 +36,42 @@ link to website: https://brianjdowling101.github.io/Trinity-College-Library-Port
 
 - Trinity College Library (hero image): The landing page of the website features an attention-grabbing animation and a photograph of The Old College Library with a textbox over it, introducing users to the Trinity College Library.
 
+![image](/home.png)
+
 ## The Book of Kells Section
 
 - The Book of Kells: Users can access images and text about The Book of Kells, sourced from official Trinity College accounts to provide evidence-based information.
+
+![image](/book1.png)
 
 ## Timeline Section
 
 - Timeline: The Timeline section details the journey of The Book of Kells and how it arrived at its permanent home in The Long Room. It also follows the history of The Long Room, displaying context in seven separate boxes with the year at the beginning of each paragraph.
 
+![image](/tl.png)
+
 ## The Old Library Section
 
 - The Old Library: Users can access two images and text about The Old Library, sourced from official Trinity College accounts to provide evidence-based information.
 
+![image](/l1.png)
+
+![image](/l2.png)
+
 ## Redevelopment Project/Contact form Section
 
-- Redevelopment Project: Users can access a video and text about the redevelopment project, sourced from official Trinity College accounts to provide evidence-based information. Contact form: is available where users can enter their email address and compose a message.
+- Redevelopment Project: Users can access a video and text about the redevelopment project, sourced from official Trinity College accounts to provide evidence-based information. 
+
+![image](/rede.png)
+
+Contact form: is available where users can enter their email address and compose a message.
+
+![image](/contact.png)
 
 ## Footer
-- The website's footer: includes links to official Trinity College social media accounts, such as Facebook, YouTube, Instagram, and Twitter. Additionally, the website's background and text are designed to provide a comfortable viewing experience for users with visual impairments. 
+- The website's footer: includes links to official Trinity College social media accounts, such as Facebook, YouTube, Instagram, and Twitter. Additionally, the website's background and text are designed to provide a comfortable viewing experience for users with visual impairments.
+
+![image](/footer.png)
 
 - Images and videos supporting the information presented on the website are sourced from official Trinity College accounts and support evidence-based information. 
 
@@ -111,6 +129,8 @@ Once the Main branch was selected, the link to the complete website was provided
 - Some parts of the text was taken from Wikipedia [Wikipedia](https://en.wikipedia.org/wiki/Trinity_College_Dublin).
 
 - Some parts of the text was taken from Wikipedia [TrinityCollegeDublin](https://www.tcd.ie/).
+
+- The video was taken from Wikipedia [TrinityCollegeDublin](https://www.tcd.ie/).
 
 ## Media
 - The images in the website was taken from [Pexels](https://www.pexels.com/).
