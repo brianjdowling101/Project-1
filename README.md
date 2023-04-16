@@ -6,13 +6,7 @@
 
 - Whether users are students, academics, or simply history enthusiasts, this website is designed to be accessible to everyone. Its comprehensive coverage of these important historical artefacts makes it a valuable resource for anyone interested in the history of The Trinity College Library and The Book of Kells.
 
-![screenshot](/alldevicespng.png)
-
-![screenshot](/assets/images/BE4E12BC-C565-4A71-A9CC-28F81368F9F0_1_105_c.jpeg)
-
-
-- Website link: https://brianjdowling101.github.io/Trinity-College-Library-Portfolio-1-/
-
+![image](/alldevicespng.png)
 
 # Features
 
@@ -27,6 +21,8 @@
 ## Navigation bar
 
 - The website's navigation bar is located above the header (Image and Textbox of The Old Library) and features links to the following sections: The Trinity College Library (Home), Book of Kells, Time-line, The Old Library, and Redevelopment. These links direct users to their respective sections on the same page. Additionally, there is a contact form located before the website's footer.
+
+![image](/nav%20bar.png)
 
 - The font used for the navigation bar is consistent with the rest of the website, but the background colour of the navigation bar is different (Red in colour), making it stand out. When a user hovers over a link, the background colour changes to red, making it clear which link has been selected. This design feature makes the navigation bar both easy to use and accessible.
 
@@ -73,6 +69,8 @@
 
 - Finally, the contact form was tested to ensure that it functions correctly, accepting entries in every field apart from additional comments, which is optional. The form only accepts email in the email field and both the submit and reset buttons work as intended.
 
+![image](/website's%20performance%20(1).png)
+
 Overall, these tests ensure that the website is of high quality, easy to use, and functions correctly across various devices and browsers.
 
 # Deployment
@@ -92,6 +90,8 @@ Once the Main branch was selected, the link to the complete website was provided
 - CSS: The official (jigsaw) validator did not find any errors in the CSS.
 
 - Accessibility: To ensure accessibility, I used Lighthouse in DevTools to verify that the colors and fonts used in the project are easy to read and accessible.
+
+![image](/website's%20performance%20(1).png)
 
 ## Unfixed Bugs
 
