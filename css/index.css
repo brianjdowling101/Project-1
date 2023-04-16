@@ -87,7 +87,7 @@ a {
 
 p {
     color: rgb(1, 1, 1);
-    font-style: arial;
+    font: arial;
 }
 
 /* Styles for the navigation */
