@@ -57,31 +57,28 @@
 
 - All information on the website is evidence-based and sourced from official Trinity College accounts on Facebook, YouTube, Instagram, and Twitter. The video about the development project is set to off, but users have the option to play, unmute the video and listen to the audio.
 
-#Testing
+# Testing
 
-To ensure the quality of the website, several tests were performed. These tests included checking the compatibility of the website on different browsers, verifying the responsiveness of the design, and ensuring the readability and functionality of the navigation bar, header, sections and contact form.
+- To ensure the quality of the website, several tests were performed. These tests included checking the compatibility of the website on different browsers, verifying the responsiveness of the design, and ensuring the readability and functionality of the navigation bar, header, sections and contact form.
 
-Firstly, the website was tested on various browsers such as Chrome, Microsoft Edge, and Safari to ensure that it functions correctly and displays accurately on all standard web browsers.
+- Firstly, the website was tested on various browsers such as Chrome, Microsoft Edge, and Safari to ensure that it functions correctly and displays accurately on all standard web browsers.
 
-Secondly, the website's responsiveness was verified using Google DevTools, confirming that it looks good and functions correctly on different screen sizes.
+- Secondly, the website's responsiveness was verified using Google DevTools, confirming that it looks good and functions correctly on different screen sizes.
 
-Thirdly, the readability and clarity of the website's navigation bar, header, sections, and contact page were confirmed to ensure that users can easily navigate through the website and find the necessary information.
+- Thirdly, the readability and clarity of the website's navigation bar, header, sections, and contact page were confirmed to ensure that users can easily navigate through the website and find the necessary information.
 
-Finally, the contact form was tested to ensure that it functions correctly, accepting entries in every field apart from additional comments, which is optional. The form only accepts email in the email field and both the submit and reset buttons work as intended.
+- Finally, the contact form was tested to ensure that it functions correctly, accepting entries in every field apart from additional comments, which is optional. The form only accepts email in the email field and both the submit and reset buttons work as intended.
 
 Overall, these tests ensure that the website is of high quality, easy to use, and functions correctly across various devices and browsers.
 
-#Deployment
+# Deployment
 
-The website was successfully deployed to Github pages using the following steps:
+- The website was successfully deployed to Github pages using the following steps:
 
-The first step was to navigate to the settings tab in the Github repository
-Then, from the source section drop-down menu, the Main branch was selected
-Once the Main branch was selected, the link to the complete website was provided on the page
-To access the live link of the website, please follow this link: https://brianjdowling101.github.io/Trinity-College-Library-Portfolio-1-/
+- The first step was to navigate to the settings tab in the Github repository.Then, from the source section drop-down menu, the Main branch was selected
+Once the Main branch was selected, the link to the complete website was provided on the page.
 
-
-
+- To access the live link of the website, please follow this link: https://brianjdowling101.github.io/Trinity-College-Library-Portfolio-1-/
 
 
 ## Validator Testing
