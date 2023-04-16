@@ -97,8 +97,10 @@ Once the Main branch was selected, the link to the complete website was provided
 
 ## Content
 
-- The code to make the social media and the contact form was taken from the CI Coders Coffeehouse Project.
-- Some parts of the text was taken from Wikipedia [Wikipedia](www.wikipedia.org).
+- The code to make the social media and the contact form was inspired by the CI Coders Coffeehouse Project.
+- Some parts of the text was taken from Wikipedia [Wikipedia](https://en.wikipedia.org/wiki/Trinity_College_Dublin).
+
+- Some parts of the text was taken from Wikipedia [TrinityCollegeDublin](https://www.tcd.ie/).
 
 ## Media
 - The images in the website was taken from [Pexels](https://www.pexels.com/).
