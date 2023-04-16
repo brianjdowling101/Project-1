@@ -1,12 +1,14 @@
 # Trinity College Library:
 
-- The Trinity College Library website aims to be a trustworthy resource for users seeking information on the historical significance of The Old Library, The Book of Kells, and The Long Room. This website is designed to provide users of all ages with access to accurate and reliable information about these important historical artefacts.
+- The Trinity College Library website aims to be a trustworthy resource for users seeking information on the historical significance of The Old Library, The Book of Kells, and The Long Room. This website is designed to provide users of all ages with access to accurate and reliable information about these important historical artefacts..
 
 - To achieve this goal, the website offers a range of resources, including historical context and video, as well as links to the library's social media accounts. These resources are intended to help users gain a deeper understanding of the significance of The Old Library, The Book of Kells, and The Long Room.
 
 - Whether users are students, academics, or simply history enthusiasts, this website is designed to be accessible to everyone. Its comprehensive coverage of these important historical artefacts makes it a valuable resource for anyone interested in the history of The Trinity College Library and The Book of Kells.
 
 ![image](/alldevicespng.png)
+
+link to website: https://brianjdowling101.github.io/Trinity-College-Library-Portfolio-1-/
 
 # Features
 
@@ -85,7 +87,9 @@ Once the Main branch was selected, the link to the complete website was provided
 
 ## Validator Testing
 
-- HTML: The official W3C validator returned no errors when the HTML was passed through it.
+- HTML: The official W3C validator returned no errors when the HTML was passed through it..
+
+![image](/html-validator.png)
 
 - CSS: The official (jigsaw) validator did not find any errors in the CSS.
 
