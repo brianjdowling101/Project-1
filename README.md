@@ -4,7 +4,11 @@
 
 - To achieve this goal, the website offers a range of resources, including historical context and video, as well as links to the library's social media accounts. These resources are intended to help users gain a deeper understanding of the significance of The Old Library, The Book of Kells, and The Long Room.
 
-- Whether users are students, academics, or simply history enthusiasts, this website is designed to be accessible to everyone. Its comprehensive coverage of these important historical artefacts makes it a valuable resource for anyone interested in the history of The Trinity College Library and The Book of Kells. 
+- Whether users are students, academics, or simply history enthusiasts, this website is designed to be accessible to everyone. Its comprehensive coverage of these important historical artefacts makes it a valuable resource for anyone interested in the history of The Trinity College Library and The Book of Kells.
+
+![screenshot](/alldevicespng.png)
+
+![screenshot](/assets/images/BE4E12BC-C565-4A71-A9CC-28F81368F9F0_1_105_c.jpeg)
 
 
 - Website link: https://brianjdowling101.github.io/Trinity-College-Library-Portfolio-1-/
