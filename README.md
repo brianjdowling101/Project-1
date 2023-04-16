@@ -28,88 +28,85 @@
 
 - Overall, the navigation bar is simple, effective, and easy to spot, ensuring users can easily navigate through the website and find the information they need.
 
+## The Trinity College Library (HOME) Section
 
+- The Trinity College Library website is divided into five sections, all of which feature a fully responsive navigation bar that remains fixed and allows users to easily navigate from section to section on any device. The five sections are:
 
-# Features
+- Trinity College Library (hero image): The landing page of the website features an attention-grabbing animation and a photograph of The Old College Library with a textbox over it, introducing users to the Trinity College Library.
 
-•	Navigation Bar:
+## The Book of Kells Section
 
-Featured on all five sections. The fully responsive navigation bar includes links to the Trinity College Library (hero image), The Book of Kells, Timeline, The Old College Library, and Redevelopment Project section. The navigation bar will stay fixed and will allow the user to easily navigate from section to section across all devices without having to revert back to the previous page via the ‘back’ button.
+- The Book of Kells: Users can access images and text about The Book of Kells, sourced from official Trinity College accounts to provide evidence-based information.
 
-•	The landing page image:
+## Timeline Section
 
-The landing page has a photograph of The Old College Library with a textbox over it and uses an attention-grabbing animation to introduce the user to Trinity College Library.
+- Timeline: The Timeline section details the journey of The Book of Kells and how it arrived at its permanent home in The Long Room. It also follows the history of The Long Room, displaying context in seven separate boxes with the year at the beginning of each paragraph.
 
-•	The Book of Kells:
+## The Old Library Section
 
-The user will be able to access images & text about The Book of Kells which has been sourced from official Trinity College accounts and supports evidence-based information.
+- The Old Library: Users can access two images and text about The Old Library, sourced from official Trinity College accounts to provide evidence-based information.
 
-• A Timeline of Events:
+## Redevelopment Project/Contact form Section
 
-The Timeline section follows the journey of The Book of Kells and how it arrived at its permanent home in The Long Room. From here the timeline follows the history of The Long Room. The context is displayed in seven separate boxes with the year at the beginning of each paragraph.
+- Redevelopment Project: Users can access a video and text about the redevelopment project, sourced from official Trinity College accounts to provide evidence-based information. Contact form: is available where users can enter their email address and compose a message.
 
-• The Old Library:
+## Footer
+- The website's footer: includes links to official Trinity College social media accounts, such as Facebook, YouTube, Instagram, and Twitter. Additionally, the website's background and text are designed to provide a comfortable viewing experience for users with visual impairments. 
 
-The user can access two images and text about The Old Library that have been sourced from official Trinity College accounts and support evidence-based information.
+- Images and videos supporting the information presented on the website are sourced from official Trinity College accounts and support evidence-based information. 
 
-• The Redevelopment Project:
+- All information on the website is evidence-based and sourced from official Trinity College accounts on Facebook, YouTube, Instagram, and Twitter. The video about the development project is set to off, but users have the option to play, unmute the video and listen to the audio.
 
-Users may access a video and text about the redevelopment project sourced from official Trinity College accounts and supported by evidence-based information.
+#Testing
 
-• Footer:
+To ensure the quality of the website, several tests were performed. These tests included checking the compatibility of the website on different browsers, verifying the responsiveness of the design, and ensuring the readability and functionality of the navigation bar, header, sections and contact form.
 
-The footer helps users to access official Trinity College social media accounts such as Facebook, Youtube, Facebook, Instagram, and Twitter.
+Firstly, the website was tested on various browsers such as Chrome, Microsoft Edge, and Safari to ensure that it functions correctly and displays accurately on all standard web browsers.
 
-• Background & Text:
+Secondly, the website's responsiveness was verified using Google DevTools, confirming that it looks good and functions correctly on different screen sizes.
 
-The background and text have been chosen to provide a comfortable viewing experience for people with visual impairments.
+Thirdly, the readability and clarity of the website's navigation bar, header, sections, and contact page were confirmed to ensure that users can easily navigate through the website and find the necessary information.
 
-• Images/Video Supporting The Facts:
+Finally, the contact form was tested to ensure that it functions correctly, accepting entries in every field apart from additional comments, which is optional. The form only accepts email in the email field and both the submit and reset buttons work as intended.
 
-The images & video have been sourced from official Trinity College accounts and support evidence-based information. The footer contains links to Trinity College’s official Facebook, YouTube, Instagram, and Twitter accounts. The video is about the development project and is set to mute, but users have the option to unmute the video and listen to the audio.
+Overall, these tests ensure that the website is of high quality, easy to use, and functions correctly across various devices and browsers.
 
-• Evidence-based Information:
+#Deployment
 
-The information is evidence-based and has been sourced from official Trinity College accounts such as Facebook, YouTube, Instagram, and Twitter.
+The website was successfully deployed to Github pages using the following steps:
 
-# Testing
-
-• Screen Size:
-
-Trinity College Library (hero image): Works perfectly on all screen sizes. I edited the CSS (Cover-text): right command from a value of 150px to 10%. This allowed the textbox to be properly viewed on the screen with no text missing. Originally before the edit, the textbox was missing on a mobile screen.
-
-The Book of Kells: can be viewed perfectly on all device screens.
-
-Timeline: can be viewed perfectly on all device screens.
-
-The Old College Library: can be viewed perfectly on all device screens.
-
-Redevelopment Project: can be view perfectly on all device screens.
-
-Footer: can be viewed perfectly on all device screens.
-
-All sections can be perfectly view on desktop computer and laptop.
+The first step was to navigate to the settings tab in the Github repository
+Then, from the source section drop-down menu, the Main branch was selected
+Once the Main branch was selected, the link to the complete website was provided on the page
+To access the live link of the website, please follow this link: https://brianjdowling101.github.io/Trinity-College-Library-Portfolio-1-/
 
 
 
-• Browsers:
 
-Works in Chromes, Internet Explorer and Safari.
 
-• Bugs/prombles:
+##Validator Testing
+HTML:
+The official W3C validator returned no errors when the HTML was passed through it.
+CSS:
+The official (jigsaw) validator did not find any errors in the CSS.
+Accessibility:
 
-The Old College Library section: when viewing on a moblie device. A line of text is missing from each secton.
+To ensure accessibility, I used Lighthouse in DevTools to verify that the colors and fonts used in the project are easy to read and accessible.
 
-No bugs found when testing in launch.json .vscode.
+## Unfixed Bugs
+- No unfixed bugs.
 
-# Content
 
-All text, images and videos are taken from offical Trinity College accounts. 
+# Credits
 
-The icons in the footer were taken from Font Awesome.
+## Content
+- The code to make the social media and the contact form was taken from the CI Coders Coffeehouse Project.
+- Some parts of the text was taken from Wikipedia [Wikipedia](www.wikipedia.org).
 
-# Media
-All text, images and videos are taken from offical Trinity College accounts. 
+## Media
+- The images in the website was taken from [Pexels](https://www.pexels.com/).
+
+
 
 
 
