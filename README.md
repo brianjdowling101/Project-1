@@ -84,22 +84,22 @@ To access the live link of the website, please follow this link: https://brianjd
 
 
 
-##Validator Testing
-HTML:
-The official W3C validator returned no errors when the HTML was passed through it.
-CSS:
-The official (jigsaw) validator did not find any errors in the CSS.
-Accessibility:
+## Validator Testing
 
-To ensure accessibility, I used Lighthouse in DevTools to verify that the colors and fonts used in the project are easy to read and accessible.
+- HTML: The official W3C validator returned no errors when the HTML was passed through it.
+
+- CSS: The official (jigsaw) validator did not find any errors in the CSS.
+
+- Accessibility: To ensure accessibility, I used Lighthouse in DevTools to verify that the colors and fonts used in the project are easy to read and accessible.
 
 ## Unfixed Bugs
-- No unfixed bugs.
 
+- No unfixed bugs.
 
 # Credits
 
 ## Content
+
 - The code to make the social media and the contact form was taken from the CI Coders Coffeehouse Project.
 - Some parts of the text was taken from Wikipedia [Wikipedia](www.wikipedia.org).
 
