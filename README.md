@@ -89,6 +89,8 @@ Once the Main branch was selected, the link to the complete website was provided
 
 - CSS: The official (jigsaw) validator did not find any errors in the CSS.
 
+![image](/css-validator.png)
+
 - Accessibility: To ensure accessibility, I used Lighthouse in DevTools to verify that the colors and fonts used in the project are easy to read and accessible.
 
 ![image](/website's%20performance%20(1).png)
