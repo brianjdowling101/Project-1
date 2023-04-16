@@ -1,9 +1,25 @@
-# Project-1
-Trinity College Library:
+# Trinity College Library:
 
-Trinity College Library is a website that hopes to inform users about historical facts about the old college library, The Book of Kells, and The Long Room. The goal of the website is to provide a reliable source of information about the college library, The Book of Kells, and Room Long. ????
+The Trinity College Library website aims to be a trustworthy resource for users seeking information on the historical significance of The Old Library, The Book of Kells, and The Long Room. This website is designed to provide users of all ages with access to accurate and reliable information about these important historical artefacts.
+
+To achieve this goal, the website offers a range of resources, including historical context and video, as well as links to the library's social media accounts. These resources are intended to help users gain a deeper understanding of the significance of The Old Library, The Book of Kells, and The Long Room.
+
+Whether users are students, academics, or simply history enthusiasts, this website is designed to be accessible to everyone. Its comprehensive coverage of these important historical artefacts makes it a valuable resource for anyone interested in the history of The Trinity College Library and The Book of Kells. 
+
 
 https://brianjdowling101.github.io/Trinity-College-Library-Portfolio-1-/
+
+
+# Features
+
+## The Header
+
+- The Trinity College Library website features a well-structured header that provides users with a clear understanding of what the website is about. The header comprises an image of The Old Library at the center, which reinforces the website's focus on historical artifacts. In addition, there is a textbox that displays the message "TRINITY COLLEGE LIBRARY: HOME TO THE BOOK OF KELLS & THE LONG ROOM". This text serves as a direct and clear introduction to the website's primary focus.
+
+- Moreover, the use of The Old Library image in the header not only reinforces the website's purpose but also sets the tone for the entire website's color scheme. The combination of red and dark colors used throughout the website adds a sense of elegance and sophistication, which is in line with the Trinity College Library's rich history and heritage.
+
+- Overall, the header's design provides a visually appealing and informative introduction to the website, allowing users to navigate the website with ease and confidence.
+
 
 # Features
 
