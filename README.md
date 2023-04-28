@@ -123,6 +123,10 @@ Once the Main branch was selected, the link to the complete website was provided
 
 # Credits
 
+## Code
+
+- Some of the code is based on the examples of the Love Running Project.
+
 ## Content
 
 - The code to make the social media and the contact form was inspired by the CI Coders Coffeehouse Project.
