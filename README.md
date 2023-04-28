@@ -48,7 +48,7 @@ link to website: https://brianjdowling101.github.io/Trinity-College-Library-Port
 
 - Timeline: The Timeline section details the journey of The Book of Kells and how it arrived at its permanent home in The Long Room. It also follows the history of The Long Room, displaying context in seven separate boxes with the year at the beginning of each paragraph.
 
-![image](/tl.png)
+![image](/image/time-line.png)
 
 ## The Old Library Section
 
