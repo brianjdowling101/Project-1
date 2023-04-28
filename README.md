@@ -62,7 +62,7 @@ link to website: https://brianjdowling101.github.io/Trinity-College-Library-Port
 
 - Redevelopment Project: Users can access a video and text about the redevelopment project, sourced from official Trinity College accounts to provide evidence-based information. 
 
-![image](/rede.png)
+![image](/image/redevelopment-section.png)
 
 Contact form: is available where users can enter their email address and compose a message.
 
