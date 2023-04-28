@@ -24,7 +24,7 @@ link to website: https://brianjdowling101.github.io/Trinity-College-Library-Port
 
 - The website's navigation bar is located above the header (Image and Textbox of The Old Library) and features links to the following sections: The Trinity College Library (Home), Book of Kells, Time-line, The Old Library, and Redevelopment. These links direct users to their respective sections on the same page. Additionally, there is a contact form located before the website's footer.
 
-![image](/nav%20bar.png)
+![image](/image/nav-bar.png)
 
 - The font used for the navigation bar is consistent with the rest of the website, but the background colour of the navigation bar is different (Red in colour), making it stand out. When a user hovers over a link, the background colour changes to red, making it clear which link has been selected. This design feature makes the navigation bar both easy to use and accessible.
 
