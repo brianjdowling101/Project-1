@@ -66,7 +66,7 @@ link to website: https://brianjdowling101.github.io/Trinity-College-Library-Port
 
 Contact form: is available where users can enter their email address and compose a message.
 
-![image](/contact.png)
+![image](/image/contact-form.png)
 
 ## Footer
 - The website's footer: includes links to official Trinity College social media accounts, such as Facebook, YouTube, Instagram, and Twitter. Additionally, the website's background and text are designed to provide a comfortable viewing experience for users with visual impairments.
