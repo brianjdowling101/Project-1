@@ -425,7 +425,7 @@ input[type="submit"]:hover {
         padding-right: 25px;
     }
 
-    /* all arrows are pointing leftwards */
+    /* all arrows are pointing leftwards. */
     .container::before {
         left: 60px;
         border: medium solid white;
