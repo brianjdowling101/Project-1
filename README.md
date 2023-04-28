@@ -79,6 +79,22 @@ Contact form: is available where users can enter their email address and compose
 
 # Testing
 
+## Validator Testing
+
+- The W3C Markup Validator and W3C CCS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. -> Results CSS validator: [http://jigsaw.w3.org/css-validator/validator$link] -> Results Markup Validator: all pages pass through the validator without errors and warnings.
+
+- HTML: The official W3C validator returned no errors when the HTML was passed through it..
+
+![image](/image/html-validator.png)
+
+- CSS: The official (jigsaw) validator did not find any errors in the CSS.
+
+![image](/image/css-validator.png)
+
+- Accessibility: To ensure accessibility, I used Lighthouse in DevTools to verify that the colors and fonts used in the project are easy to read and accessible.
+
+![image](/image/accessible.png)
+
 - To ensure the quality of the website, several tests were performed. These tests included checking the compatibility of the website on different browsers, verifying the responsiveness of the design, and ensuring the readability and functionality of the navigation bar, header, sections and contact form.
 
 - Firstly, the website was tested on various browsers such as Chrome, Microsoft Edge, and Safari to ensure that it functions correctly and displays accurately on all standard web browsers.
@@ -97,21 +113,13 @@ Overall, these tests ensure that the website is of high quality, easy to use, an
 
 - The website was successfully deployed to Github pages using the following steps:
 
-- The first step was to navigate to the settings tab in the Github repository.Then, from the source section drop-down menu, the Main branch was selected
-Once the Main branch was selected, the link to the complete website was provided on the page.
+1. I pushed my final code via the terminal after finishing the project.
+2. I navigated on GitHub to 'Settings'.
+3. After Settings I navigated to GitHub Pages.
+4. There I selected 'Deploy from Branch'.
+5. Then I selected 'Main/(root)' branch.
 
 - To access the live link of the website, please follow this link: https://brianjdowling101.github.io/Trinity-College-Library-Portfolio-1-/
-
-
-## Validator Testing
-
-- HTML: The official W3C validator returned no errors when the HTML was passed through it..
-
-![image](/image/html-validator.png)
-
-- CSS: The official (jigsaw) validator did not find any errors in the CSS.
-
-![image](/image/css-validator.png)
 
 - Accessibility: To ensure accessibility, I used Lighthouse in DevTools to verify that the colors and fonts used in the project are easy to read and accessible.
 
