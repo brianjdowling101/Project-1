@@ -6,7 +6,7 @@
 
 - Whether users are students, academics, or simply history enthusiasts, this website is designed to be accessible to everyone. Its comprehensive coverage of these important historical artefacts makes it a valuable resource for anyone interested in the history of The Trinity College Library and The Book of Kells.
 
-![image](/alldevicespng.png)
+![image](/am-i-responsive.png)
 
 link to website: https://brianjdowling101.github.io/Trinity-College-Library-Portfolio-1-/
 
