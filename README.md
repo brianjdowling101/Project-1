@@ -89,7 +89,7 @@ Contact form: is available where users can enter their email address and compose
 
 - Finally, the contact form was tested to ensure that it functions correctly, accepting entries in every field apart from additional comments, which is optional. The form only accepts email in the email field and both the submit and reset buttons work as intended.
 
-![image](/website's%20performance%20(1).png)
+![image](/image/lighthouse-performance.png)
 
 Overall, these tests ensure that the website is of high quality, easy to use, and functions correctly across various devices and browsers.
 
@@ -107,11 +107,11 @@ Once the Main branch was selected, the link to the complete website was provided
 
 - HTML: The official W3C validator returned no errors when the HTML was passed through it..
 
-![image](/html-validator.png)
+![image](/image/html-validator.png)
 
 - CSS: The official (jigsaw) validator did not find any errors in the CSS.
 
-![image](/css-validator.png)
+![image](/image/css-validator.png)
 
 - Accessibility: To ensure accessibility, I used Lighthouse in DevTools to verify that the colors and fonts used in the project are easy to read and accessible.
 
