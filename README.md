@@ -36,7 +36,7 @@ link to website: https://brianjdowling101.github.io/Trinity-College-Library-Port
 
 - Trinity College Library (hero image): The landing page of the website features an attention-grabbing animation and a photograph of The Old College Library with a textbox over it, introducing users to the Trinity College Library.
 
-![image](/home.png)
+![image](/image/home-section.png)
 
 ## The Book of Kells Section
 
