@@ -42,7 +42,7 @@ link to website: https://brianjdowling101.github.io/Trinity-College-Library-Port
 
 - The Book of Kells: Users can access images and text about The Book of Kells, sourced from official Trinity College accounts to provide evidence-based information.
 
-![image](/book1.png)
+![image](/image/book-of-kells.png)
 
 ## Timeline Section
 
