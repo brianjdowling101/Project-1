@@ -1,6 +1,6 @@
 # Trinity College Library.:
 
-- The Trinity College Library website aims to be a trustworthy resource for users seeking information on the historical significance of The Old Library, The Book of Kells, and The Long Room. This website is designed to provide users of all ages with access to accurate and reliable information about these important historical artefacts..
+- The Trinity College Library website aims to be a trustworthy resource for users seeking information on the historical significance of The Old Library, The Book of Kells, and The Long Room. This website is designed to provide users of all ages with access to accurate and reliable information about these important historical artefacts.
 
 - To achieve this goal, the website offers a range of resources, including historical context and video, as well as links to the library's social media accounts. These resources are intended to help users gain a deeper understanding of the significance of The Old Library, The Book of Kells, and The Long Room.
 
