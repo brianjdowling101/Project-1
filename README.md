@@ -71,7 +71,7 @@ Contact form: is available where users can enter their email address and compose
 ## Footer
 - The website's footer: includes links to official Trinity College social media accounts, such as Facebook, YouTube, Instagram, and Twitter. Additionally, the website's background and text are designed to provide a comfortable viewing experience for users with visual impairments.
 
-![image](/footer.png)
+![image](/image/footer-section.png)
 
 - Images and videos supporting the information presented on the website are sourced from official Trinity College accounts and support evidence-based information. 
 
