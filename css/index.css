@@ -207,7 +207,6 @@ p {
 
 .library .librarytext p {
     color: #fff;
-
 }
 
 /* Sets the background image for the library section */
@@ -243,8 +242,8 @@ p {
 
 .librarytext {
     display: flex;
-    align-items: center;
     height: 100%;
+    align-items: justify;
     text-align: justify;
     padding-right: 5%;
     padding-left: 5%;
