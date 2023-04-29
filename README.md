@@ -123,8 +123,6 @@ Overall, these tests ensure that the website is of high quality, easy to use, an
 
 - Accessibility: To ensure accessibility, I used Lighthouse in DevTools to verify that the colors and fonts used in the project are easy to read and accessible.
 
-![image](/image/accessible.png)
-
 ## Unfixed Bugs
 
 - No unfixed bugs.
