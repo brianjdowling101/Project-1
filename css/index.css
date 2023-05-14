@@ -191,22 +191,28 @@ p {
     overflow: hidden;
     background-color: #474e5d;
     position: relative;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 /* library section img-text*/
 
 .library .librarytext {
-    position: absolute;
-    width: 100%;
+    width: 50%;
     height: initial;
     top: 0;
     left: 0;
-    background: rgb(0 0 0 / 50%);
+    /*background: rgb(0 0 0 / 50%);*/
     color: #fff;
+
 }
 
 .library .librarytext p {
-    color: #fff;
+    color: #ffffff;
+    margin-right: auto;
+
+
+
 }
 
 /* Sets the background image for the library section */
@@ -569,6 +575,10 @@ video {
 
     .library {
         position: relative;
+    }
+
+    .library img {
+        width: 100%;
     }
 
     /* Position the library text on top of the image */
