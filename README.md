@@ -81,7 +81,9 @@ Contact form: is available where users can enter their email address and compose
 
 ## Validator Testing
 
-- The W3C Markup Validator and W3C CCS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. -> Results CSS validator: [http://jigsaw.w3.org/css-validator/validator$link] -> Results Markup Validator: all pages pass through the validator without errors and warnings.
+- The W3C Markup Validator and W3C CCS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. Results CSS validator:https://jigsaw.w3.org/css-validator/ 
+
+- Results Markup Validator: all pages pass through the validator without errors and warnings.
 
 - HTML: The official W3C validator returned no errors when the HTML was passed through it..
 
