@@ -95,8 +95,6 @@ Contact form: is available where users can enter their email address and compose
 
 - Accessibility: To ensure accessibility, I used Lighthouse in DevTools to verify that the colors and fonts used in the project are easy to read and accessible.
 
-![image](/image/accessible.png)
-
 - To ensure the quality of the website, several tests were performed. These tests included checking the compatibility of the website on different browsers, verifying the responsiveness of the design, and ensuring the readability and functionality of the navigation bar, header, sections and contact form.
 
 - Firstly, the website was tested on various browsers such as Chrome, Microsoft Edge, and Safari to ensure that it functions correctly and displays accurately on all standard web browsers.
