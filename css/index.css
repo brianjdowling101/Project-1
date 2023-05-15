@@ -249,7 +249,6 @@ p {
 .librarytext {
     display: flex;
     height: 100%;
-    align-items: justify;
     text-align: justify;
     padding-right: 5%;
     padding-left: 5%;
