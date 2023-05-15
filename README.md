@@ -54,9 +54,9 @@ link to website: https://brianjdowling101.github.io/Trinity-College-Library-Port
 
 - The Old Library: Users can access two images and text about The Old Library, sourced from official Trinity College accounts to provide evidence-based information.
 
-![image](/image/library-section-longroom.png)
+![image](/image/old-library.png)
 
-![image](/image/library-section-stairs.png)
+![image](/image/old-library-stairs.png)
 
 ## Redevelopment Project/Contact form Section
 
