@@ -450,7 +450,7 @@ input[type="submit"]:hover {
 }
 
 
-
+/* Selector for a class of elements, sets the text alignment to justified */
 .redev-text {
     text-align: justify;
 
@@ -478,6 +478,7 @@ input[type="submit"]:hover {
 
 }
 
+/* Selector for a social media element, sets the background color to white */
 #social-media {
     background-color: white;
 }
